@@ -122,5 +122,5 @@ Matplotlib, Seaborn
 
 ## Author
 
-**Safiya T S** — Machine Learning Engineer | MSc Statistics, AMU
-[LinkedIn](https://linkedin.com/in/safiya-t-s) | [GitHub](https://github.com/ts-safiya)
+**Safiya T S** — Academic Associate| Indian Institute of Management
+[LinkedIn](https://www.linkedin.com/in/safiya-t-s-99a99b268/) | [GitHub](https://github.com/ts-safiya)
